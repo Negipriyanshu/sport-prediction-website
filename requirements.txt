@@ -1,6 +1,0 @@
-django
-gunicorn
-joblib
-scikit-learn
-django-crispy-forms
-crispy-bootstrap4
